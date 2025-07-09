@@ -1,0 +1,37 @@
+# Node modules (never push this)
+node_modules/
+
+# Cypress screenshots & videos
+cypress/screenshots/
+cypress/videos/
+
+# Environment files
+.env
+.env.local
+
+# Mac system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Output folders
+dist/
+build/
+
+# Coverage reports (if using code coverage tools)
+coverage/
+
+# Cypress cache (optional)
+.cypress_cache/
+
+# JetBrains IDEs
+.idea/
+
+# OS generated files
+Thumbs.db
